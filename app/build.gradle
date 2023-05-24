@@ -44,6 +44,5 @@ dependencies {
 
     implementation project(path: ':dias-core')
 
-//    implementation(project(":android-permissions"))
-    implementation 'com.github.DungTran2301:android-permissions:1.0.0'
+    implementation(project(":android-permissions"))
 }
