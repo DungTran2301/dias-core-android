@@ -12,8 +12,6 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/android-permissions" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/app-permission" />
-            <option value="$PROJECT_DIR$/app-permissions" />
             <option value="$PROJECT_DIR$/dias-base" />
             <option value="$PROJECT_DIR$/dias-core" />
           </set>

@@ -50,7 +50,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = "com.github.dungtran2301"
-                artifactId = "android-core"
+                artifactId = "dias-core"
                 version = '1.0.0'
             }
         }

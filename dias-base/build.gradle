@@ -54,7 +54,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = "com.github.dungtran2301"
-                artifactId = "android-permissions"
+                artifactId = "dias-base"
                 version = '1.0.0'
             }
         }

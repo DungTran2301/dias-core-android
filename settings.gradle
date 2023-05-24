@@ -16,6 +16,4 @@ rootProject.name = "dias-core-android"
 include ':app'
 include ':dias-core'
 include ':dias-base'
-include ':app-permission'
-include ':app-permissions'
 include ':android-permissions'
